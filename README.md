@@ -2,7 +2,7 @@
 a beautiful  line chart
 效果图是这样的：
 
- ![image](https://github.com/Li-Qun/HFChart/pic.png)
+ ![image](https://github.com/Li-Qun/HFChart/blob/master/pic.png)
 
 关键是在
 
